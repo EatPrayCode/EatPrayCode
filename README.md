@@ -41,8 +41,6 @@
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/confessSins">Spotify</a>
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/">Twitter</a>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
 ## ⚡ Skills:
 
 - Web Development
